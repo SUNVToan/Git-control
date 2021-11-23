@@ -28,3 +28,5 @@
   vd: git branch -d dev
 - Git push: Đẩy dự án lên repository
   vd : git push https://github.com/SUNVToan/Git-control.git master
+- Git remote add {name elient} tutorial link: tạo a name elient thay cho đường hướng dẫn
+  vd: git remote add origin https://github.com/SUNVToan/Git-control.git
