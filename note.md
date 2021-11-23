@@ -19,3 +19,8 @@
   vd: git checkout master
 - Git branch: Xác định Branch
 - Git checkout -b {Branch name}: Thoát branch cũ và vào branch mới
+- Git merge {branch name}: Tổng hợp branch hiện tại với branch name
+  vd : git merge dev
+- Git branch -d {branch name}: xóa đi branch name
+  vd: git branch -d dev
+-
