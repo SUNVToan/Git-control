@@ -2,6 +2,7 @@
 
 - Repository (Repo)
 - Branch
+- Conflict: Xung đột
 
 # Commands
 
