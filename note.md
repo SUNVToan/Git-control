@@ -35,3 +35,4 @@
   vd : git push origin dev : đưa nhánh lên repository, sau khi đưa nhánh lên bằng origin thì lần sau chỉ cần dùng lệnh git push
 - Git fetch origin : tìm những branch mới trên repository
 - git checkout -b staging origin/staging : để clone nhánh staging về máy
+- git pull : là lệnh kéo những thay đổ về máy tương tự như lệnh clone repository
