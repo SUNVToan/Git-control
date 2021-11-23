@@ -2,6 +2,7 @@
 
 - Repository (Repo)
 - Branch
+- conflict: xung đột
 
 # Commands
 
