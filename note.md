@@ -31,4 +31,4 @@
 - Git remote add {name elient} tutorial link: tạo a name elient thay cho đường hướng dẫn
   vd: git remogitte add origin https://github.com/SUNVToan/Git-control.git
 - Git clone: lấy dự án trên repository về máy
-- git push --set-upstream origin master : khi chúng ta git push thì sẽ code sẽ tự cập nhật lên repository
+- git push --set-upstream origin master : khi chúng ta git push thì sẽ code sẽ tự cập nhật lên repository || Giống với khi chúng ta lấy dự án bằng git clone về máy và sử dụng.
