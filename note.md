@@ -3,6 +3,8 @@
 - Repository (Repo)
 - Branch
 - Conflict: Xung đột
+- Local
+- Remote
 
 # Commands
 
@@ -24,4 +26,5 @@
   vd : git merge dev
 - Git branch -d {branch name}: xóa đi branch name
   vd: git branch -d dev
--
+- Git push: Đẩy dự án lên repository
+  vd : git push https://github.com/SUNVToan/Git-control.git master
