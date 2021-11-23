@@ -29,5 +29,6 @@
 - Git push: Đẩy dự án lên repository
   vd : git push https://github.com/SUNVToan/Git-control.git master
 - Git remote add {name elient} tutorial link: tạo a name elient thay cho đường hướng dẫn
-  vd: git remote add origin https://github.com/SUNVToan/Git-control.git
+  vd: git remogitte add origin https://github.com/SUNVToan/Git-control.git
 - Git clone: lấy dự án trên repository về máy
+- git push --set-upstream origin master : khi chúng ta git push thì sẽ code sẽ tự cập nhật lên repository
