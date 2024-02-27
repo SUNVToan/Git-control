@@ -39,3 +39,7 @@
 - git checkout -b {branch name} origin/{branch name} : để clone nhánh staging về máy
   vd : git checkout -b staging origin/staging
 - git pull : là lệnh kéo những thay đổ về máy tương tự như lệnh clone repository
+- git pull origin master : kéo những thay đổi từ nhánh master về máy
+- git pull origin dev : kéo những thay đổi từ nhánh dev về máy
+- git pull origin staging : kéo những thay đổi từ nhánh staging về máy
+- git pull origin {branch name} : kéo những thay đổi từ nhánh {branch name} về máy
